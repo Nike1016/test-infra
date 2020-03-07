@@ -23,6 +23,6 @@ setuptools==41.1.0
 sh==1.12.14
 singledispatch==3.4.0.3
 six==1.12.0
-urllib3==1.25.3
+urllib3==1.25.8
 webapp2==2.5.2
 wrapt==1.11.2
