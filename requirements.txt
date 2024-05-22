@@ -17,7 +17,7 @@ pylint==1.9.5
 python-dateutil==2.8.0
 pytz==2019.2
 PyYAML==5.1.1
-requests==2.22.0
+requests==2.32.0
 ruamel.yaml==0.15.97
 setuptools==41.1.0
 sh==1.12.14
