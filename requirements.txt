@@ -19,7 +19,7 @@ pytz==2019.2
 PyYAML==5.1.1
 requests==2.22.0
 ruamel.yaml==0.15.97
-setuptools==41.1.0
+setuptools==70.0.0
 sh==1.12.14
 singledispatch==3.4.0.3
 six==1.12.0
